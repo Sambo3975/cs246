@@ -2,3 +2,5 @@ I've already done this many, many times.
 It's not like it's difficult or anything.
 
 Part II: Learn how to pull in case you didn't figure it out the first few hundred times.
+
+Stretch: Resolving Contrived Conflicts
